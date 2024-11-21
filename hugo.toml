@@ -1,4 +1,4 @@
-baseURL = 'https://liaoianen.github.io/LiaoianEN.github.io-main/'
+baseURL = 'https://LiaoianEN.github.io-main/'
 languageCode = 'en-us'
 title = 'EN的履歷網頁'
 theme = 'ananke'
